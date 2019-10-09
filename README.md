@@ -11,9 +11,9 @@ This is a Telegram bot sending random photos to a user. Photos are being taken f
 
 ### Dependencies
 
--  [go-telegram-bot-api](https://github.com/go-telegram-bot-api) @github/Syfaro Go client for Telegram Bot API
+-  [go-telegram-bot-api](https://github.com/go-telegram-bot-api) @Syfaro Go client for Telegram Bot API
 
--  [go-pinterest](https://github.com/a-frony/go-pinterest) working fork of @github/carrot Go client for Pinterest API
+-  [go-pinterest](https://github.com/a-frony/go-pinterest) working fork of @carrot Go client for Pinterest API
 
 ## Settings
 
