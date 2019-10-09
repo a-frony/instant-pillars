@@ -1,0 +1,12 @@
+{
+    "AdmHelp": "You can control bot from here, mjr Tom",
+    "AdmLoad": "Send me full link to pinterest board, please",
+    "AdmWrongURL": "Provided url isn't correct pinterest board url",
+    "AdmAdded": "Added",
+    "AdmDuplicates": "Duplicates",
+    "UsrHelp": "I send to you cute catepillars photos. Ask me with /start or /moar command",
+    "UsrAbout": "2019. Instant pillars bot\n Written by @a_frony\n Source code is available on http://github.com/a-frony/instant-pillars",
+    "UsrErrZero": "Oops. I've done with all photos I have. For new ones connect",
+    "UsrErr": "Oops. Some error occure. Please connect"
+}
+
