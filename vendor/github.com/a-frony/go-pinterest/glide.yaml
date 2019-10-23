@@ -1,0 +1,17 @@
+package: github.com/a-frony/go-pinterest
+homepage: https://github.com/a-frony/go-pinterest
+license: MIT
+owners:
+- name: a-frony Creative
+  email: hello@a-frony.is
+  homepage: https://a-frony.is
+- name: Brandon Romano
+  email: BrandonRRomano@gmail.com
+import:
+- package: github.com/BrandonRomano/wrecker
+  version: v0.1.4
+- package: github.com/BrandonRomano/iso8601
+  version: v0.1.0
+testImport:
+- package: github.com/stretchr/testify
+  version: v1.1.4

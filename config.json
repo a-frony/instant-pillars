@@ -1,0 +1,10 @@
+{
+    "Language":"en-US",
+    "TelegramBotToken":"970284242:AAF91MAfEGW0fBJXqFLdpvivhJgY0LOwCMA",
+    "PinterestToken":"Arczna__ssB-Vs-do2Cv0vHdPRHcFcrDAp9iY_FGM-6LsMDBIQgEQDAAAEWCRjUVoNkArs0AAAAA",
+    "BotAdmin":"a_frony",
+    "DBUser":"test_user",
+    "DBPass":"test_pass",
+    "DBName":"instant_pillars"
+
+}

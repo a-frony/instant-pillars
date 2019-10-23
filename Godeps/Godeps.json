@@ -1,0 +1,67 @@
+{
+	"ImportPath": "local/instantPillar",
+	"GoVersion": "go1.12",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/BrandonRomano/iso8601",
+			"Comment": "v0.1.0",
+			"Rev": "2ef8540f216c9c1c6768cbff3cfbbe7b0196c05e"
+		},
+		{
+			"ImportPath": "github.com/BrandonRomano/wrecker",
+			"Comment": "v0.1.5",
+			"Rev": "d37dcbf1a77802e496cddbcc55e28e5ee9583459"
+		},
+		{
+			"ImportPath": "github.com/a-frony/go-pinterest",
+			"Comment": "v2.1.1-3-g34cee64",
+			"Rev": "34cee649b802c88f1008333eb1e78b0bf5aa6a0e"
+		},
+		{
+			"ImportPath": "github.com/a-frony/go-pinterest/controllers",
+			"Comment": "v2.1.1-3-g34cee64",
+			"Rev": "34cee649b802c88f1008333eb1e78b0bf5aa6a0e"
+		},
+		{
+			"ImportPath": "github.com/a-frony/go-pinterest/models",
+			"Comment": "v2.1.1-3-g34cee64",
+			"Rev": "34cee649b802c88f1008333eb1e78b0bf5aa6a0e"
+		},
+		{
+			"ImportPath": "github.com/go-telegram-bot-api/telegram-bot-api",
+			"Comment": "v4.6.4-25-gb33efee",
+			"Rev": "b33efeebc78563cfeddf19563781cffb16aaabdf"
+		},
+		{
+			"ImportPath": "github.com/jmoiron/sqlx",
+			"Comment": "v1.2.0-23-gd7d9517",
+			"Rev": "d7d95172beb5a538ff08c50a6e98aee6e7c41f40"
+		},
+		{
+			"ImportPath": "github.com/jmoiron/sqlx/reflectx",
+			"Comment": "v1.2.0-23-gd7d9517",
+			"Rev": "d7d95172beb5a538ff08c50a6e98aee6e7c41f40"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "v1.2.0-12-g931b5ae",
+			"Rev": "931b5ae4c24e6810c8c82ab4734904de3df1c3dc"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "v1.2.0-12-g931b5ae",
+			"Rev": "931b5ae4c24e6810c8c82ab4734904de3df1c3dc"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/scram",
+			"Comment": "v1.2.0-12-g931b5ae",
+			"Rev": "931b5ae4c24e6810c8c82ab4734904de3df1c3dc"
+		},
+		{
+			"ImportPath": "github.com/technoweenie/multipartstreamer",
+			"Comment": "v1.0.1",
+			"Rev": "a90a01d73ae432e2611d178c18367fbaa13e0154"
+		}
+	]
+}
